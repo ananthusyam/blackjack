@@ -1,1 +1,1 @@
-This is card game called Blackjack.
+This is a card game called Blackjack.
